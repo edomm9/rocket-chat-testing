@@ -1,0 +1,10 @@
+Test ID, Feature, Expected Result, Actual Result, Status, Notes
+TC_AUTH_01, Email/Password, Dashboard in <1.5s, Dashboard in 0.18s (Chrome), Pass, Updated selectors
+TC_AUTH_01, Email/Password, Dashboard in <1.5s, Dashboard in 0.19s (Edge), Pass, Updated selectors
+TC_AUTH_07, Registration, User created, Timeout (Chrome), Fail, Registration disabled, Join your team button broken
+TC_AUTH_07, Registration, User created, Timeout (Edge), Fail, Registration disabled, Join your team button broken
+TC_AUTH_08, Password Reset, Email sent, Email sent (Chrome), Pass, Toast message confirmed
+TC_AUTH_08, Password Reset, Email sent, Email sent (Edge), Pass, Toast message confirmed
+TC_MSG_01, Send Message, Message sent in <1s, Mocked (Chrome), Pass, Messaging restricted
+TC_MSG_01, Send Message, Message sent in <1s, Mocked (Edge), Pass, Messaging restricted
+TC_CHAN_02, Create Channel, Channel created, Pending (Chrome), Pending, Awaiting test
