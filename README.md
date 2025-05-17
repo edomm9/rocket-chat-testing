@@ -81,10 +81,6 @@ node rocket-chat-test.js
 
   * If any step takes too long, consider increasing the timeout values in the script.
 
-## License
-
-MIT License
-
 ## Contact
 
-For any issues or contributions, feel free to reach out.
+For any issues or contributions, feel free to reach out. edomm9@gmail.com
